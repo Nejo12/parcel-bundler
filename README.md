@@ -1,3 +1,3 @@
 ## parcel-bundler
 
-#### It is awesome. Check it out [here](https://parceljs.org/getting_started.html)
+#### It is awesome. Check out the doc [here](https://parceljs.org/getting_started.html)
